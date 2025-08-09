@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
-# title                    : "Zihan Wang / Homepage"
+# site_theme               : "default"
+title                    : "Zihan Wang / Homepage"
 title_separator          : "-"
 name                     : &name "Zihan Wang"
 description              : &description "personal description"
