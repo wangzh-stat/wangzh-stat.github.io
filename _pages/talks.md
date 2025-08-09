@@ -5,38 +5,30 @@ permalink: /talks/
 author_profile: true
 ---
 
-- **7th International Conference on Econometrics and Statistics (EcoSta 2024)**. Beijing, July 2024. <br>
-_Homogeneity pursuit in ranking inferences based on pairwise comparison data._
+- **The 8th National Academic Forum for Doctoral Students in Statistics**. Guangzhou, China, September 2024. <br>
+_Factor-guided estimation of large covariance matrix function with conditional functional sparsity._
 
-- **The 2nd Joint Conference on Statistics and Data Science in China (JCSDS 2024)**. Kunming, July 2024. <br>
-_Statistical Inference for Power Autoregressive Conditional Duration Models with Stable Innovations._
+- **The 7th International Conference on Econometrics and Statistics (EcoSta 2024)**. Beijing, China, July 2024. <br>
+_Factor modelling for matrix-variate functional time series with partial observations and high dimensionality._
 
-- **Complex Time Series Analysis: High-dimensionality, Change-points, Forecasting, and Causality**. Sanya, January 2024. <br>
-_Homogeneity pursuit in ranking inferences based on pairwise comparison data._
+- **The 2nd Joint Conference on Statistics and Data Science in China (JCSDS 2024)**. Kunming, China, July 2024. <br>
+_Factor modelling for matrix-variate functional time series with partial observations and high dimensionality._
 
-- **BIRS-IASM Workshop: Harnessing the power of latent structure models and modern Big Data learning**. Hangzhou, December 2023. <br>
-_Homogeneity pursuit in ranking inferences based on pairwise comparison data._
+- **The Eastern Asia Chapter of International Society for Bayesian Analysis (EAC-ISBA) Conference 2024**. Hong Kong, China, June 2024. <br>
+_Factor modelling for matrix-variate functional time series with partial observations and high dimensionality._
 
-- **The 9th National Forum on Statistics for Graduate Students**. Beijing, November 2023. <br>
-_Statistical Inference for stable asymmetric GARCH models._
+- **The 25th Seminar on Probability and Statistics in Beijing-Tianjin-Hebei**. Beijing, China, June 2024. <br>
+_Calibrating weights for improved estimation in factor models for high-dimensional time series._
 
-- **Invited speaker to Statistics and Probability Seminar at UMass Amherst**. Amherst, October 2023. <br>
- _Statistical Inference for stable asymmetric GARCH models._
+- **Tsinghua Sanya International Workshop on "Complex Time Series Analysis: High-dimensionality, Change-points, Forecasting and Causality"**. Sanya, China, January 2024. <br>
+ _Calibrating weights for improved estimation in factor models for high-dimensional time series._
 
-- **Joint Statistical Meetings**. Toronto, August 2023. <br>
- _Statistical Inference for stable asymmetric GARCH models._
+- **Tsinghua Statistics Seminar**. Beijing, China, November 2023. <br>
+ _Factor modelling for matrix-variate functional time series with partial observations and high dimensionality._
 
-- **IASC-ARS Interim Conference 2022**. HongKong, December 2022. <br>
-_Grouped network Poisson autoregressive model._
+- **The 4th Guanghua Time Series Forum**. Xi'an, China, August 2023. <br>
+_Factor-guided estimation of large covariance matrix function with conditional functional sparsity._
 
-- **The 6th National Academic Forum for Doctoral Students in Statistics**. Guangzhou, November 2022. <br>
-_Grouped network Poisson autoregressive model._
+- **The 7th Peking-Tsinghua Joint Statistics Seminar**. Beijing, China, June 2023. <br>
+_Factor-guided estimation of large covariance matrix function with conditional functional sparsity._
 
-- **Symposium of Beijing Institute of Applied Statistics**. Beijing, September 2022. <br>
-_Maximum likelihood estimation for $\alpha$-stable double autoregressive models._
-
-- **Peking-Tsinghua Joint Statistics Colloquium**. Beijing, June 2022. <br>
-_Maximum likelihood estimation for $\alpha$-stable double autoregressive models._
-
-- **The 5th National Academic Forum for Doctoral Students in Statistics**. Guangzhou, November 2021. <br>
-_Maximum likelihood estimation for $\alpha$-stable double autoregressive models._
