@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zihan Wang / Homepage"
+# title                    : "Zihan Wang / Homepage"
 title_separator          : "-"
 name                     : &name "Zihan Wang"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Zihan Wang / 王梓涵"
   pronouns         : "he/him"  
-  bio              : "Ph.D. Candidate in Statistics"
+  bio              : "Ph.D. candidate in Statistics"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              : # URL
