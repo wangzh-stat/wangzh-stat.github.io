@@ -5,12 +5,12 @@ permalink: /awards/
 author_profile: true
 ---
 
-- First Prize of Outstanding Paper, The 8th National Academic Forum for Doctoral Students in Statistics. _September 2024_ 
+- First Prize of Outstanding Paper, The 8th National Academic Forum for Doctoral Students in Statistics. _September 2024._ 
 
-- Comprehensive Excellence Scholarship, Tsinghua University. _October 2023/2022_
+- Comprehensive Excellence Scholarship, Tsinghua University. _October 2023/2022._
 
-- Outstanding Graduate of Beijing (5\%). _June 2021_
+- Outstanding Graduate of Beijing (5%). _June 2021._
 	
-- Outstanding Graduate of Tsinghua University (10\%). _June 2021_
-	
-- Comprehensive Excellence Scholarship, Tsinghua University. _October 2020/2019/2018_
+- Outstanding Graduate of Tsinghua University (12%). _June 2021._
+
+- Comprehensive Excellence Scholarship, Tsinghua University. _October 2020/2019/2018._
