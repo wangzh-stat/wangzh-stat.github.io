@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am a final-year Ph.D. candidate in Statistics in the Department of Statistics and Data Science at Tsinghua University, fortunate to be advised by Professor [Dong Li](https://www.stat.tsinghua.edu.cn/en/info/1023/1052.htm) and Professor [Xinghao Qiao](https://www.hkubs.hku.hk/people/xinghao-qiao/) at the University of Hong Kong.
 I obtained my Bachelor's degree in Mathematics from the Department of Mathematical Sciences at Tsinghua University in 2021.
-From 2024 to 2025, I visited the [Marshall School of Business](https://statistics.fas.harvard.edu/home) at University of Southern California for one year, fortunate to be advised by Professor [Yingying Fan](https://faculty.marshall.usc.edu/yingying-fan/).
+From 2024 to 2025, I visited the Marshall School of Business at University of Southern California for one year, fortunate to be advised by Professor [Yingying Fan](https://faculty.marshall.usc.edu/yingying-fan/).
 
 ## Research interests
 * High-dimensional statistics and econometrics
