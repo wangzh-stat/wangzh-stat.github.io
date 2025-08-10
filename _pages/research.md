@@ -20,7 +20,7 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 
 ### Statistical collaboration
-- Li, Y.<sup>*</sup>, **Wang, Z.**<sup>*</sup>, Imbert, M., Liang, Z.<sup>*</sup> and Zhao, L. (2025). **Defining organized R\&D: Collective action for mission-oriented innovation.** _Humanities and Social Sciences Communications_, forthcoming. 
+- Li, Y.<sup>*</sup>, **Wang, Z.**<sup>*</sup>, Imbert, M., Liang, Z.<sup>*</sup> and Zhao, L. (2025). **Defining organized R&D: Collective action for mission-oriented innovation.** _Humanities and Social Sciences Communications_, forthcoming. 
 
 - Li, Y.<sup>*</sup>, **Wang, Z.**, Lin, Z. and Gao, Y. (2025). **Revisiting regional governance and regional development: Measurements, linkages and coupling effect.** _World Development_, 185, 106816. [[link]](https://doi.org/10.1016/j.worlddev.2024.106816)
 
