@@ -33,7 +33,7 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 - **Wang, Z.**, Qiao, X., Li, D.<sup>*</sup> and Tong, H. (2025). **On the logistic quasi-MLE for null recurrent Markov chain.** _Manuscript_.
 
-- Fan, Y., **Wang, Z.**<sup>1</sup> and Wei, W. (2025+). **SLOACI: Surrogate leveraged online adaptive causal inference.** _Manuscript_.
+- Fan, Y.<sup>*</sup>, **Wang, Z.**<sup>1</sup> and Wei, W. (2025). **SLOACI: Surrogate leveraged online adaptive causal inference.** _Manuscript_.
 
 
 ## Working in progress
