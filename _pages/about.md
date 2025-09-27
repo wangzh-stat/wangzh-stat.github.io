@@ -13,10 +13,10 @@ I obtained my Bachelor's degree in Mathematics from the Department of Mathematic
 From 2024 to 2025, I visited the Marshall School of Business at University of Southern California for one year, fortunate to be advised by Professor [Yingying Fan](https://faculty.marshall.usc.edu/yingying-fan/).
 
 ## Research interests
-* High-dimensional statistics and econometrics
-* Complex time series analysis
-* Causal inference and experimental design
-* Functional data analysis
+* High-Dimensional Statistics and Econometrics
+* Complex Time Series Analysis
+* Causal Inference and Experimental Design
+* Functional Data Analysis
 
 ## Education
 * 2021/09 - now:  Ph.D. candidate in Statistics, [Department of Statistics and Data Science](https://www.stat.tsinghua.edu.cn/en/), Tsinghua University, Beijing, China.
@@ -24,8 +24,9 @@ From 2024 to 2025, I visited the Marshall School of Business at University of So
 * 2017/09 - 2021/06:  B.S. in Mathematics, [Department of Mathematical Sciences](https://www.math.tsinghua.edu.cn/), Tsinghua University, Beijing, China.
 
 ## Experiences
-* 2024/10 - 2025/09:  Visiting scholar, [Marshall School of Business](https://www.marshall.usc.edu/), University of Southern California, Los Angeles, USA.
-* 2023/10 - 2023/12:  Visiting scholar, [Department of Statistics](https://www.lse.ac.uk/statistics), London School of Economics and Political Science, London, U.K.
+* 2025/10 - 2025/12:  Research Assistant, [Faculty of Business and Economics](https://www.hkubs.hku.hk/), The University of Hong Kong, Hong Kong, China.
+* 2024/10 - 2025/09:  Visiting Scholar, [Marshall School of Business](https://www.marshall.usc.edu/), University of Southern California, Los Angeles, USA.
+* 2023/10 - 2023/12:  Visiting Scholar, [Department of Statistics](https://www.lse.ac.uk/statistics), London School of Economics and Political Science, London, U.K.
 
 ## Contact
-Email: wangzh21[at]mails.tsinghua.edu.cn
+Email: wangzh21@mails.tsinghua.edu.cn
