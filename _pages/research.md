@@ -12,7 +12,7 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 ### Statistical methodology
 
-- Qiao, X., **Wang, Z.**<sup>1</sup>, Yao, Q.<sup>*</sup> and Zhang, B. (2025). Weight-calibrated estimation for factor models of high-dimensional time series, in revision at **_Journal of the American Statistical Association_**. [[arXiv]](https://arxiv.org/abs/2505.01357)
+- Qiao, X., **Wang, Z.**<sup>1</sup>, Yao, Q.<sup>*</sup> and Zhang, B. (2025). Weight-calibrated estimation for factor models of high-dimensional time series, major revision for **_Journal of the American Statistical Association_**. [[arXiv]](https://arxiv.org/abs/2505.01357)
 
 - Li, D., Qiao, X.<sup>*</sup> and **Wang, Z.**<sup>1</sup> (2025). Factor-guided estimation of large covariance matrix function with conditional functional sparsity. **_Journal of Econometrics_**, 251, 106070. [[link]](https://doi.org/10.1016/j.jeconom.2025.106070)
 

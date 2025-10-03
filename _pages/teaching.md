@@ -7,7 +7,7 @@ author_profile: true
 
 - Linear Regression Analysis. _Spring 2023, Tsinghua University._
 
-- Logistic Regression. _Fall 2022, Tsinghua University._
+- Categorical Data Analysis. _Fall 2022, Tsinghua University._
 
 - Applied Time Series Analysis. _Spring 2022, Tsinghua University._
 
