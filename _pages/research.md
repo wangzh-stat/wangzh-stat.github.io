@@ -8,11 +8,9 @@ author_profile: true
 
 You can also find my papers on [my Google Scholar profile](https://scholar.google.com/citations?user=W-gAOSoAAAAJ&hl=zh-CN).
 
-## Publications and preprints under revision
+## Publications
 
 ### Statistical methodology
-
-- Qiao, X., **Wang, Z.**<sup>1</sup>, Yao, Q.<sup>*</sup> and Zhang, B. (2025). Weight-calibrated estimation for factor models of high-dimensional time series, major revision for **_Journal of the American Statistical Association_**. [[arXiv]](https://arxiv.org/abs/2505.01357)
 
 - Li, D., Qiao, X.<sup>*</sup> and **Wang, Z.**<sup>1</sup> (2025). Factor-guided estimation of large covariance matrix function with conditional functional sparsity. **_Journal of Econometrics_**, 251, 106070. [[link]](https://doi.org/10.1016/j.jeconom.2025.106070)
 
@@ -27,6 +25,8 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 
 ## Working papers
+
+- Qiao, X., **Wang, Z.**<sup>1</sup>, Yao, Q.<sup>*</sup> and Zhang, B. (2025). Weight-calibrated estimation for factor models of high-dimensional time series, major revision for **_Journal of the American Statistical Association_**. [[arXiv]](https://arxiv.org/abs/2505.01357)
 
 - **Wang, Z.**, Qiao, X., Li, D.<sup>*</sup> and Tong, H. (2025). On a new robust method of inference for general time series models. _Submitted_. [[arXiv]](https://arxiv.org/abs/2503.08655) [[code]](https://github.com/wangzh-stat/TSQMLE)
 

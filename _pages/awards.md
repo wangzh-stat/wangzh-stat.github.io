@@ -13,4 +13,4 @@ author_profile: true
 	
 - Outstanding Graduate of Tsinghua University (top 10%). _June 2021._
 
-- Comprehensive Excellence Scholarship, Tsinghua University. _October 2020/2019/2018._
+- Comprehensive Excellence Scholarship, Tsinghua University. _October 2019/2018._

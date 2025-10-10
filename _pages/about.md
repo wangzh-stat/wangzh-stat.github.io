@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a final-year Ph.D. candidate in Statistics in the Department of Statistics and Data Science at Tsinghua University, fortunate to be advised by Professor [Dong Li](https://www.stat.tsinghua.edu.cn/en/info/1023/1052.htm) and Professor [Xinghao Qiao](https://www.hkubs.hku.hk/people/xinghao-qiao/) at the University of Hong Kong.
+Hi! I am a final-year Ph.D. candidate in Statistics in the Department of Statistics and Data Science at Tsinghua University, fortunate to be advised by Prof. [Dong Li](https://www.stat.tsinghua.edu.cn/en/info/1023/1052.htm) and Prof. [Xinghao Qiao](https://www.hkubs.hku.hk/people/xinghao-qiao/) at the University of Hong Kong.
 I obtained my Bachelor's degree in Mathematics from the Department of Mathematical Sciences at Tsinghua University in 2021.
-From 2024 to 2025, I visited the Marshall School of Business at University of Southern California for one year, fortunate to be advised by Professor [Yingying Fan](https://faculty.marshall.usc.edu/yingying-fan/).
+From 2024 to 2025, I visited the Marshall School of Business at University of Southern California for one year, fortunate to be advised by Prof. [Yingying Fan](https://faculty.marshall.usc.edu/yingying-fan/).
 
 ## Research interests
 * High-Dimensional Statistics and Econometrics
 * Complex Time Series Analysis
-* Causal Inference and Experimental Design
 * Functional Data Analysis
+* Causal Inference and Experimental Design
 
 ## Education
 * 2021/09 - now:  Ph.D. candidate in Statistics, [Department of Statistics and Data Science](https://www.stat.tsinghua.edu.cn/en/), Tsinghua University, Beijing, China.
