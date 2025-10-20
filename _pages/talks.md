@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+- **The 10th Meeting of Young Econometricians in Asian-Pacific (YEAP) Region**. Beijing, China, October 2025. <br>
+_Weight-calibrated estimation for factor models of high-dimensional time series._
+
 - **The 8th National Academic Forum for Doctoral Students in Statistics**. Guangzhou, China, September 2024. <br>
 _Factor-guided estimation of large covariance matrix function with conditional functional sparsity._
 

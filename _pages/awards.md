@@ -5,7 +5,9 @@ permalink: /awards/
 author_profile: true
 ---
 
-- First Prize of Outstanding Paper, The 8th National Academic Forum for Doctoral Students in Statistics. _September 2024._ 
+- Top Ten Outstanding Paper Award, The 11st National Academic Forum for Graduate Students in Statistics. _October 2025._ 
+
+- First Prize of Outstanding Paper Award, The 8th National Academic Forum for Doctoral Students in Statistics. _September 2024._ 
 
 - Comprehensive Excellence Scholarship, Tsinghua University. _October 2023/2022._
 
