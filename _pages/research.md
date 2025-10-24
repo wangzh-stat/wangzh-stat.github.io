@@ -30,7 +30,7 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 - **Wang, Z.**, Qiao, X., Li, D.<sup>*</sup> and Tong, H. (2025). On a new robust method of inference for general time series models. _Submitted_. [[arXiv]](https://arxiv.org/abs/2503.08655) [[code]](https://github.com/wangzh-stat/TSQMLE)
 
-- Han, S., Li, Y.<sup>*</sup> and **Wang, Z.** (2025). Reframing regional governance for urban welfare growth: Evidence from the Greater Bay Area of China. _Submitted_.
+- Han, S., Li, Y.<sup>*</sup> and **Wang, Z.** (2025). Reframing regional governance for urban welfare growth: Evidence from the Greater Bay Area of China. _Submitted_. [[SSRN]](http://dx.doi.org/10.2139/ssrn.5405016)
 
 - **Wang, Z.**, Qiao, X., Li, D.<sup>*</sup> and Tong, H. (2025). On the logistic quasi-MLE for null recurrent Markov chain. _Manuscript_.
 
