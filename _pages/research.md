@@ -12,9 +12,9 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 ### Statistical methodology
 
-- Li, D., Qiao, X.<sup>*</sup> and **Wang, Z.**<sup>1</sup> (2025). Factor-guided estimation of large covariance matrix function with conditional functional sparsity. **_Journal of Econometrics_**, 251, 106070. [[link]](https://doi.org/10.1016/j.jeconom.2025.106070)
+- Li, D., Qiao, X.<sup>*</sup> and **Wang, Z.**<sup>1</sup> (2025). Factor-guided estimation of large covariance matrix function with conditional functional sparsity. **_Journal of Econometrics_**, 251, 106070. [[link]](https://doi.org/10.1016/j.jeconom.2025.106070) [[arXiv]](https://arxiv.org/abs/2311.02450)
 
-- Guo, S., Qiao, X.<sup>*</sup>, Wang, Q. and **Wang, Z.**<sup>1,*</sup> (2025). Factor modelling for high-dimensional functional time series. **_Journal of Business & Economic Statistics_**, in press. [[link]](https://doi.org/10.1080/07350015.2025.2505493) [[code]](https://github.com/qswangstat/FMHDFTS)
+- Guo, S., Qiao, X.<sup>*</sup>, Wang, Q. and **Wang, Z.**<sup>1,*</sup> (2025). Factor modelling for high-dimensional functional time series. **_Journal of Business & Economic Statistics_**, in press. [[link]](https://doi.org/10.1080/07350015.2025.2505493) [[arXiv]](https://arxiv.org/abs/2112.13651) [[code]](https://github.com/qswangstat/FMHDFTS)
 
 
 ### Statistical collaboration
