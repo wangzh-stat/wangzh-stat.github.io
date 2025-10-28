@@ -20,7 +20,6 @@ From 2024 to 2025, I visited the Marshall School of Business at University of So
 
 ## Education
 * 2021/09 - now:  Ph.D. candidate in Statistics, [Department of Statistics and Data Science](https://www.stat.tsinghua.edu.cn/en/), Tsinghua University, Beijing, China.
-* 2019/09 - 2021/06:  B.M. in Public Administration, [School of Public Policy and Management](https://www.sppm.tsinghua.edu.cn/english/), Tsinghua University, Beijing, China.
 * 2017/09 - 2021/06:  B.S. in Mathematics, [Department of Mathematical Sciences](https://www.math.tsinghua.edu.cn/), Tsinghua University, Beijing, China.
 
 ## Experiences

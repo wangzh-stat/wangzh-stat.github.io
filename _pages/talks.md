@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+- **The 11st National Academic Forum for Graduate Students in Statistics**. Taiyuan, China, October 2025. <br>
+_Weight-calibrated estimation for factor models of high-dimensional time series._
+
 - **The 10th Meeting of Young Econometricians in Asian-Pacific (YEAP) Region**. Beijing, China, October 2025. <br>
 _Weight-calibrated estimation for factor models of high-dimensional time series._
 
