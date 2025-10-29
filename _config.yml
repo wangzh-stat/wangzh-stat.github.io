@@ -22,7 +22,7 @@ repository               : "wangzh-stat/wangzh-stat.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Zihan Wang / 王梓涵"
   pronouns         : "he/him"  
   bio              : "Ph.D. candidate in Statistics"
