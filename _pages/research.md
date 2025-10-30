@@ -39,9 +39,8 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 ## Working in progress
 
-- Fang, Q., Qiao, X. and **Wang, Z.**<sup>1</sup> (2025+). Time series Gaussian chain graph models: Identifiability and estimation.
-
-- Li, D., Qiao, X. and **Wang, Z.**<sup>1</sup> (2025+). Factor modeling for matrix-variate functional and longitudinal time series.
+- Fang, Q., Qiao, X. and **Wang, Z.**<sup>1</sup> (2025+). Time series Gaussian chain graph models.
 
 - Chen, C., Qiao, X. and **Wang, Z.**<sup>1</sup> (2025+). Inference for high-dimensional error-in-variables vector autoregression.
 
+- Li, D., Qiao, X. and **Wang, Z.**<sup>1</sup> (2025+). Factor modeling for matrix-variate functional and longitudinal time series.
