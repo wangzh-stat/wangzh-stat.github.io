@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+- **The 8th Chinese Econometrics Forum**. Changsha, China, November 2025. <br>
+_SLOACI: Surrogate-leveraged online adaptive causal inference._
+
 - **The 11st National Academic Forum for Graduate Students in Statistics**. Taiyuan, China, October 2025. <br>
 _Weight-calibrated estimation for factor models of high-dimensional time series._
 

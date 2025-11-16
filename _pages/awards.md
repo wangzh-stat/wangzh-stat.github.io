@@ -5,6 +5,8 @@ permalink: /awards/
 author_profile: true
 ---
 
+- Outstanding Paper Award, The 8th Chinese Econometrics. _November 2025._ 
+
 - Top Ten Outstanding Paper Award, The 11st National Academic Forum for Graduate Students in Statistics. _October 2025._ 
 
 - First Prize of Outstanding Paper Award, The 8th National Academic Forum for Doctoral Students in Statistics. _September 2024._ 
