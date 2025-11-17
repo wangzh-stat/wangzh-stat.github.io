@@ -17,7 +17,7 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 - Guo, S., Qiao, X.<sup>*</sup>, Wang, Q. and **Wang, Z.**<sup>1,*</sup> (2025). Factor modelling for high-dimensional functional time series. **_Journal of Business & Economic Statistics_**, in press. [[link]](https://doi.org/10.1080/07350015.2025.2505493) [[arXiv]](https://arxiv.org/abs/2112.13651) [[code]](https://github.com/qswangstat/FMHDFTS)
 
 
-### Statistical collaboration
+### Application
 
 - Li, Y.<sup>*</sup>, **Wang, Z.**, Lin, Z. and Gao, Y. (2025). Revisiting regional governance and regional development: Measurements, linkages and coupling effect. **_World Development_**, 185, 106816. [[link]](https://doi.org/10.1016/j.worlddev.2024.106816)
 
