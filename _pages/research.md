@@ -28,13 +28,13 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 - Qiao, X., **Wang, Z.**<sup>1</sup>, Yao, Q.<sup>*</sup> and Zhang, B. (2025). Weight-calibrated estimation for factor models of high-dimensional time series, major revision for **_Journal of the American Statistical Association_**. [[arXiv]](https://arxiv.org/abs/2505.01357)
 
+- Fan, Y.<sup>*</sup>, **Wang, Z.**<sup>1</sup> and Wei, W. (2025). SLOACI: Surrogate-leveraged online adaptive causal inference. _Submitted_. [[arXiv]](https://arxiv.org/abs/2512.06872) 
+
 - **Wang, Z.**, Qiao, X., Li, D.<sup>*</sup> and Tong, H. (2025). On a new robust method of inference for general time series models. _Submitted_. [[arXiv]](https://arxiv.org/abs/2503.08655) [[code]](https://github.com/wangzh-stat/TSQMLE)
 
 - Han, S., Li, Y.<sup>*</sup> and **Wang, Z.** (2025). Reframing regional governance for urban welfare growth: Evidence from the Greater Bay Area of China. _Submitted_. [[SSRN]](http://dx.doi.org/10.2139/ssrn.5405016)
 
 - **Wang, Z.**, Qiao, X., Li, D.<sup>*</sup> and Tong, H. (2025). On the logistic quasi-MLE for null recurrent Markov chain. _Manuscript_.
-
-- Fan, Y.<sup>*</sup>, **Wang, Z.**<sup>1</sup> and Wei, W. (2025). SLOACI: Surrogate-leveraged online adaptive causal inference. _Manuscript_.
 
 
 ## Working in progress
