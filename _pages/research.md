@@ -34,13 +34,11 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 - Han, S., Li, Y.<sup>*</sup> and **Wang, Z.** (2025). Reframing regional governance for urban welfare growth: Evidence from the Greater Bay Area of China. _Submitted_. [[SSRN]](http://dx.doi.org/10.2139/ssrn.5405016)
 
-- **Wang, Z.**, Qiao, X., Li, D.<sup>*</sup> and Tong, H. (2025). On the logistic quasi-MLE for null recurrent Markov chain. _Manuscript_.
+- Fang, Q., Qiao, X. and **Wang, Z.**<sup>1</sup> (2025+). Time series Gaussian chain graph models. _Manuscript_.
 
+- **Wang, Z.**, Qiao, X., Li, D.<sup>*</sup> and Tong, H. (2025+). On the logistic quasi-MLE for null recurrent Markov chain. _Manuscript_.
 
-## Working in progress
+- Chen, C., Qiao, X. and **Wang, Z.**<sup>1</sup> (2025+). Inference for high-dimensional error-in-variables vector autoregression. _Manuscript_.
 
-- Fang, Q., Qiao, X. and **Wang, Z.**<sup>1</sup> (2025+). Time series Gaussian chain graph models.
+- Li, D., Qiao, X. and **Wang, Z.**<sup>1</sup> (2025+). Factor modeling for matrix-variate functional and longitudinal time series. _Manuscript_.
 
-- Chen, C., Qiao, X. and **Wang, Z.**<sup>1</sup> (2025+). Inference for high-dimensional error-in-variables vector autoregression.
-
-- Li, D., Qiao, X. and **Wang, Z.**<sup>1</sup> (2025+). Factor modeling for matrix-variate functional and longitudinal time series.
