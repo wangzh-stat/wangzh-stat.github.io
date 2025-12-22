@@ -5,6 +5,8 @@ permalink: /awards/
 author_profile: true
 ---
 
+- Outstanding Paper Award, 2025 National Academic Forum for Doctoral Students in Quantitative Economics. _December 2025._
+
 - Outstanding Paper Award, The 8th Chinese Econometrics Forum. _November 2025._ 
 
 - Top Ten Outstanding Paper Award, The 11st National Academic Forum for Graduate Students in Statistics. _October 2025._ 
