@@ -36,7 +36,7 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 - Fang, Q., Qiao, X. and **Wang, Z.**<sup>1</sup> (2025+). Time series Gaussian chain graph models. _Manuscript_.
 
-- **Wang, Z.**, Qiao, X., Li, D.<sup>*</sup> and Tong, H. (2025+). On the logistic quasi-MLE for null recurrent Markov chain. _Manuscript_.
+- **Wang, Z.**, Qiao, X., Li, D. and Tong, H. (2025+). On the logistic quasi-MLE for null recurrent Markov chain. _Manuscript_.
 
 - Chen, C., Qiao, X. and **Wang, Z.**<sup>1</sup> (2025+). Inference for high-dimensional error-in-variables vector autoregression. _Manuscript_.
 
