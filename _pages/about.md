@@ -14,9 +14,9 @@ From 2024 to 2025, I visited the Marshall School of Business at University of So
 
 ## Research interests
 * Complex Time Series Analysis
-* Functional Data Analysis
 * Causal Inference and Experimental Design
 * High-Dimensional Statistics/Econometrics
+* Functional Data Analysis
 
 ## Education
 * 2021/09 - now:  Ph.D. candidate in Statistics, [Department of Statistics and Data Science](https://www.stat.tsinghua.edu.cn/en/), Tsinghua University, Beijing, China.
