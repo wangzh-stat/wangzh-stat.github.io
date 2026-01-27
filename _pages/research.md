@@ -14,7 +14,7 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 - Li, D., Qiao, X.<sup>*</sup> and **Wang, Z.**<sup>1</sup> (2025). Factor-guided estimation of large covariance matrix function with conditional functional sparsity. **_Journal of Econometrics_**, 251, 106070. [[link]](https://doi.org/10.1016/j.jeconom.2025.106070) [[arXiv]](https://arxiv.org/abs/2311.02450)
 
-- Guo, S., Qiao, X.<sup>*</sup>, Wang, Q. and **Wang, Z.**<sup>1,*</sup> (2025). Factor modelling for high-dimensional functional time series. **_Journal of Business & Economic Statistics_**, in press. [[link]](https://doi.org/10.1080/07350015.2025.2505493) [[arXiv]](https://arxiv.org/abs/2112.13651) [[code]](https://github.com/qswangstat/FMHDFTS)
+- Guo, S., Qiao, X.<sup>*</sup>, Wang, Q. and **Wang, Z.**<sup>1,*</sup> (2026). Factor modelling for high-dimensional functional time series. **_Journal of Business & Economic Statistics_**, 44(1), 106--119. [[link]](https://doi.org/10.1080/07350015.2025.2505493) [[arXiv]](https://arxiv.org/abs/2112.13651) [[code]](https://github.com/qswangstat/FMHDFTS)
 
 
 ### Application
@@ -34,11 +34,10 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 - Han, S., Li, Y.<sup>*</sup> and **Wang, Z.** (2025). Reframing regional governance for urban welfare growth: Evidence from the Greater Bay Area of China. _Submitted_. [[SSRN]](http://dx.doi.org/10.2139/ssrn.5405016)
 
-- Fang, Q., Qiao, X. and **Wang, Z.**<sup>1</sup> (2025+). Time series Gaussian chain graph models. _Manuscript_.
+- **Wang, Z.**, Qiao, X., Li, D.<sup>*</sup> and Tong, H. (2026). On robust inference for null recurrent time series. _Submitted_.
 
-- **Wang, Z.**, Qiao, X., Li, D. and Tong, H. (2025+). On the logistic quasi-MLE for null recurrent Markov chain. _Manuscript_.
+- **Wang, Z.**, Qiao, X.<sup>*</sup> and Li, D. (2026). Matrix functional factor models with partial observations. _Manuscript_.
 
-- Chen, C., Qiao, X. and **Wang, Z.**<sup>1</sup> (2025+). Inference for high-dimensional error-in-variables vector autoregression. _Manuscript_.
+- Fang, Q., Qiao, X. and **Wang, Z.**<sup>1</sup> (2026+). Time series Gaussian chain graph models. _Manuscript_.
 
-- Li, D., Qiao, X. and **Wang, Z.**<sup>1</sup> (2025+). Factor modeling for matrix-variate functional and longitudinal time series. _Manuscript_.
-
+- Chen, C., Qiao, X. and **Wang, Z.**<sup>1</sup> (2026+). Inference for high-dimensional error-in-variables vector autoregression. _Manuscript_.
