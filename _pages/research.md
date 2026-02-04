@@ -28,7 +28,7 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 - Qiao, X., **Wang, Z.**<sup>1</sup>, Yao, Q.<sup>*</sup> and Zhang, B. (2025). Weight-calibrated estimation for factor models of high-dimensional time series, major revision for **_Journal of the American Statistical Association_**. [[arXiv]](https://arxiv.org/abs/2505.01357)
 
-- Fan, Y.<sup>*</sup>, **Wang, Z.**<sup>1</sup> and Wei, W. (2025). SLOACI: Surrogate-leveraged online adaptive causal inference. _Submitted_. [[arXiv]](https://arxiv.org/abs/2512.06872) 
+- Fan, Y.<sup>*</sup>, **Wang, Z.**<sup>1</sup> and Wei, W. (2025). SLOACI: Surrogate-leveraged online adaptive causal inference, major revision for **_Journal of the American Statistical Association_**. [[arXiv]](https://arxiv.org/abs/2512.06872) 
 
 - **Wang, Z.**, Qiao, X., Li, D.<sup>*</sup> and Tong, H. (2025). On a new robust method of inference for general time series models. _Submitted_. [[arXiv]](https://arxiv.org/abs/2503.08655) [[code]](https://github.com/wangzh-stat/TSQMLE)
 
@@ -36,8 +36,8 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 - **Wang, Z.**, Qiao, X., Li, D.<sup>*</sup> and Tong, H. (2026). On robust inference for null recurrent time series. _Submitted_.
 
-- **Wang, Z.**, Qiao, X.<sup>*</sup> and Li, D. (2026). Matrix functional factor models with partial observations. _Manuscript_.
+- **Wang, Z.**, Qiao, X. and Li, D. (2026). Matrix functional factor models with partial observations. _Manuscript_.
 
-- Fang, Q., Qiao, X. and **Wang, Z.**<sup>1</sup> (2026+). Time series Gaussian chain graph models. _Manuscript_.
+- Fang, Q., Qiao, X. and **Wang, Z.**<sup>1</sup> (2026). Time series Gaussian chain graph models. _Manuscript_.
 
-- Chen, C., Qiao, X. and **Wang, Z.**<sup>1</sup> (2026+). Inference for high-dimensional error-in-variables vector autoregression. _Manuscript_.
+- Chen, C., Qiao, X. and **Wang, Z.**<sup>1</sup> (2026). Inference for high-dimensional error-in-variables vector autoregression. _Manuscript_.
