@@ -12,16 +12,16 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 ### Statistical methodology
 
-- Li, D., Qiao, X.<sup>*</sup> and **Wang, Z.**<sup>1</sup> (2025). Factor-guided estimation of large covariance matrix function with conditional functional sparsity. **_Journal of Econometrics_**, 251, 106070. [[link]](https://doi.org/10.1016/j.jeconom.2025.106070) [[arXiv]](https://arxiv.org/abs/2311.02450)
+- Li, D., Qiao, X.<sup>*</sup> and **Wang, Z.**<sup>1</sup> (2025). Factor-guided estimation of large covariance matrix function with conditional functional sparsity. **_Journal of Econometrics_**, 251, 106070. [[journal]](https://doi.org/10.1016/j.jeconom.2025.106070) [[arXiv]](https://arxiv.org/abs/2311.02450)
 
-- Guo, S., Qiao, X.<sup>*</sup>, Wang, Q. and **Wang, Z.**<sup>1,*</sup> (2026). Factor modelling for high-dimensional functional time series. **_Journal of Business & Economic Statistics_**, 44(1), 106-119. [[link]](https://doi.org/10.1080/07350015.2025.2505493) [[arXiv]](https://arxiv.org/abs/2112.13651) [[code]](https://github.com/qswangstat/FMHDFTS)
+- Guo, S., Qiao, X.<sup>*</sup>, Wang, Q. and **Wang, Z.**<sup>1,*</sup> (2026). Factor modeling for high-dimensional functional time series. **_Journal of Business & Economic Statistics_**, 44(1), 106-119. [[journal]](https://doi.org/10.1080/07350015.2025.2505493) [[arXiv]](https://arxiv.org/abs/2112.13651) [[code]](https://github.com/qswangstat/FMHDFTS)
 
 
 ### Application
 
-- Li, Y.<sup>*</sup>, **Wang, Z.**, Lin, Z. and Gao, Y. (2025). Revisiting regional governance and regional development: Measurements, linkages and coupling effect. **_World Development_**, 185, 106816. [[link]](https://doi.org/10.1016/j.worlddev.2024.106816)
+- Li, Y.<sup>*</sup>, **Wang, Z.**, Lin, Z. and Gao, Y. (2025). Revisiting regional governance and regional development: Measurements, linkages and coupling effect. **_World Development_**, 185, 106816. [[journal]](https://doi.org/10.1016/j.worlddev.2024.106816)
 
-- Li, Y.<sup>*</sup>, **Wang, Z.**<sup>*</sup>, Imbert, M., Liang, Z.<sup>*</sup> and Zhao, L. (2025). Defining organized R&D: Collective action for mission-oriented innovation. **_Humanities and Social Sciences Communications_**, 12, 1512. [[link]](https://www.nature.com/articles/s41599-025-05795-8)
+- Li, Y.<sup>*</sup>, **Wang, Z.**<sup>*</sup>, Imbert, M., Liang, Z.<sup>*</sup> and Zhao, L. (2025). Defining organized R&D: Collective action for mission-oriented innovation. **_Humanities and Social Sciences Communications_**, 12, 1512. [[journal]](https://www.nature.com/articles/s41599-025-05795-8)
 
 
 ## Working papers
@@ -32,12 +32,13 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 - **Wang, Z.**, Qiao, X., Li, D.<sup>*</sup> and Tong, H. (2025). On a new robust method of inference for general time series models. _Submitted_. [[arXiv]](https://arxiv.org/abs/2503.08655) [[code]](https://github.com/wangzh-stat/TSQMLE)
 
-- Han, S., Li, Y.<sup>*</sup> and **Wang, Z.** (2025). Reframing regional governance for urban welfare growth: Evidence from the Greater Bay Area of China. _Submitted_. [[SSRN]](http://dx.doi.org/10.2139/ssrn.5405016)
+- Fang, Q., Qiao, X.<sup>*</sup> and **Wang, Z.**<sup>1</sup> (2026). Time series Gaussian chain graph models. _Submitted_. [[arXiv]](https://arxiv.org/abs/2604.07018)
 
 - **Wang, Z.**, Qiao, X., Li, D.<sup>*</sup> and Tong, H. (2026). On robust inference for null recurrent time series. _Submitted_.
 
+- Han, S., Li, Y.<sup>*</sup> and **Wang, Z.** (2025). Reframing regional governance for urban welfare growth: Evidence from the Greater Bay Area of China. _Submitted_. [[SSRN]](http://dx.doi.org/10.2139/ssrn.5405016)
+
 - **Wang, Z.**, Qiao, X. and Li, D. (2026). Matrix functional factor models with partial observations. _Manuscript_.
 
-- Fang, Q., Qiao, X. and **Wang, Z.**<sup>1</sup> (2026). Time series Gaussian chain graph models. _Manuscript_.
-
 - Chen, C., Qiao, X. and **Wang, Z.**<sup>1</sup> (2026). Inference for high-dimensional error-in-variables vector autoregression. _Manuscript_.
+
