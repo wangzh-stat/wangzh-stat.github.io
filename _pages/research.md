@@ -12,7 +12,7 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 ### Statistical methodology
 
-- Li, D., Qiao, X.<sup>*</sup> and **Wang, Z.**<sup>1</sup> (2025). Factor-guided estimation of large covariance matrix function with conditional functional sparsity. **_Journal of Econometrics_**, 251, 106070. [[journal]](https://doi.org/10.1016/j.jeconom.2025.106070) [[arXiv]](https://arxiv.org/abs/2311.02450)
+- Li, D., Qiao, X.<sup>*</sup> and **Wang, Z.**<sup>1</sup> (2025). Factor-guided estimation of large covariance matrix function with conditional functional sparsity. **_Journal of Econometrics_**, 251, 106070. [[journal]](https://doi.org/10.1016/j.jeconom.2025.106070) [[arXiv]](https://arxiv.org/abs/2311.02450) [[code]](https://github.com/wangzh-stat/CovFun)
 
 - Guo, S., Qiao, X.<sup>*</sup>, Wang, Q. and **Wang, Z.**<sup>1,*</sup> (2026). Factor modeling for high-dimensional functional time series. **_Journal of Business & Economic Statistics_**, 44(1), 106-119. [[journal]](https://doi.org/10.1080/07350015.2025.2505493) [[arXiv]](https://arxiv.org/abs/2112.13651) [[code]](https://github.com/qswangstat/FMHDFTS)
 
@@ -26,7 +26,7 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 ## Working papers
 
-- Qiao, X., **Wang, Z.**<sup>1</sup>, Yao, Q.<sup>*</sup> and Zhang, B. (2025). Weight-calibrated estimation for factor models of high-dimensional time series, major revision for **_Journal of the American Statistical Association_**. [[arXiv]](https://arxiv.org/abs/2505.01357)
+- Qiao, X., **Wang, Z.**<sup>1</sup>, Yao, Q.<sup>*</sup> and Zhang, B. (2025). Weight-calibrated estimation for factor models of high-dimensional time series, major revision for **_Journal of the American Statistical Association_**. [[arXiv]](https://arxiv.org/abs/2505.01357) [[code]](https://github.com/wangzh-stat/WFactor)
 
 - Fan, Y.<sup>*</sup>, **Wang, Z.**<sup>1</sup> and Wei, W. (2025). SLOACI: Surrogate-leveraged online adaptive causal inference, major revision for **_Journal of the American Statistical Association_**. [[arXiv]](https://arxiv.org/abs/2512.06872) 
 
