@@ -26,7 +26,7 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 ## Working papers
 
-- Qiao, X., **Wang, Z.**<sup>1</sup>, Yao, Q.<sup>*</sup> and Zhang, B. (2025). Weight-calibrated estimation for factor models of high-dimensional time series, major revision for **_Journal of the American Statistical Association_**. [[arXiv]](https://arxiv.org/abs/2505.01357) [[code]](https://github.com/wangzh-stat/WFactor)
+- Qiao, X., **Wang, Z.**<sup>1</sup>, Yao, Q.<sup>*</sup> and Zhang, B. (2025). Weight-calibrated estimation for factor models of high-dimensional time series, minor revision for **_Journal of the American Statistical Association_**. [[arXiv]](https://arxiv.org/abs/2505.01357) [[code]](https://github.com/wangzh-stat/WFactor)
 
 - Fan, Y.<sup>*</sup>, **Wang, Z.**<sup>1</sup> and Wei, W. (2025). SLOACI: Surrogate-leveraged online adaptive causal inference, major revision for **_Journal of the American Statistical Association_**. [[arXiv]](https://arxiv.org/abs/2512.06872) 
 
