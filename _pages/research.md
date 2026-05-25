@@ -14,7 +14,7 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 ### Statistical methodology
 
-- Qiao, X., **Wang, Z.**<sup>1</sup>, Yao, Q.<sup>*</sup> and Zhang, B. (2026). Weight-calibrated estimation for factor models of high-dimensionsal time series,  **_Journal of the American Statistical Association_**, accepted. [[arXiv]](https://arxiv.org/abs/2505.01357) [[code]](https://github.com/wangzh-stat/WFactor)
+- Qiao, X., **Wang, Z.**<sup>1</sup>, Yao, Q.<sup>*</sup> and Zhang, B. (2026). Weight-calibrated estimation for factor models of high-dimensionsal time series,  **_Journal of the American Statistical Association_**, forthcoming. [[arXiv]](https://arxiv.org/abs/2505.01357) [[code]](https://github.com/wangzh-stat/WFactor)
 
 - Guo, S., Qiao, X.<sup>*</sup>, Wang, Q. and **Wang, Z.**<sup>1,*</sup> (2026). Factor modeling for high-dimensional functional time series. **_Journal of Business & Economic Statistics_**, 44(1), 106-119. [[journal]](https://doi.org/10.1080/07350015.2025.2505493) [[arXiv]](https://arxiv.org/abs/2112.13651) [[code]](https://github.com/qswangstat/FMHDFTS)
 
@@ -41,5 +41,3 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 - **Wang, Z.**, Qiao, X. and Li, D. (2026). Matrix functional factor models with partial observations. _Manuscript_.
 
 - Chen, C., Qiao, X. and **Wang, Z.**<sup>1</sup> (2026). Inference for high-dimensional error-in-variables vector autoregression. _Manuscript_.
-
-
