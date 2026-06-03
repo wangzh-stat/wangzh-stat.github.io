@@ -38,9 +38,9 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 - Han, S., Li, Y.<sup>*</sup> and **Wang, Z.** (2025). Reframing regional governance for urban welfare growth: Evidence from the Greater Bay Area of China. _Submitted_. [[SSRN]](http://dx.doi.org/10.2139/ssrn.5405016)
 
-- **Wang, Z.**, Qiao, X. and Li, D. (2026). Matrix functional factor models with partial observations. _Manuscript_.
+- **Wang, Z.**, Qiao, X. and Li, D. (2026+). Matrix functional factor models with partial observations. _Manuscript_.
 
-- Chen, C., Qiao, X. and **Wang, Z.**<sup>1</sup> (2026). Inference for high-dimensional error-in-variables vector autoregression. _Manuscript_.
+- Chen, C., Qiao, X. and **Wang, Z.**<sup>1</sup> (2026+). Inference for high-dimensional error-in-variables vector autoregression. _Manuscript_.
 
 - Zhou, Y. Q., **Wang, Z.**<sup>1</sup>, Qiao, X. and Li, D. (2026+). Differentially private adaptive Neyman allocation for sequential experiments. _Manuscript_.
 
