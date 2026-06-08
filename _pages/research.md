@@ -28,15 +28,15 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 ## Working papers
 
-- Fan, Y.<sup>*</sup>, **Wang, Z.**<sup>1</sup> and Wei, W. (2025). SLOACI: Surrogate-leveraged online adaptive causal inference, under major revision for **_Journal of the American Statistical Association_**. [[arXiv]](https://arxiv.org/abs/2512.06872) 
+- Fan, Y.<sup>*</sup>, **Wang, Z.**<sup>1</sup> and Wei, W. (2026). SLOACI: Surrogate-leveraged online adaptive causal inference, under major revision for **_Journal of the American Statistical Association_**. [[arXiv]](https://arxiv.org/abs/2512.06872) 
 
-- **Wang, Z.**, Qiao, X., Li, D.<sup>*</sup> and Tong, H. (2025). On a new robust method of inference for general time series models, under major revision for **_Journal of Econometrics_**. [[arXiv]](https://arxiv.org/abs/2503.08655) [[code]](https://github.com/wangzh-stat/TSQMLE)
+- **Wang, Z.**, Qiao, X., Li, D.<sup>*</sup> and Tong, H. (2026). On a new robust method of inference for general time series models, under major revision for **_Journal of Econometrics_**. [[arXiv]](https://arxiv.org/abs/2503.08655) [[code]](https://github.com/wangzh-stat/TSQMLE)
 
 - **Wang, Z.**, Qiao, X., Li, D.<sup>*</sup> and Tong, H. (2026). On robust inference for null recurrent time series, under revision for **_Econometric Theory_**.
 
 - Fang, Q., Qiao, X.<sup>*</sup> and **Wang, Z.**<sup>1</sup> (2026). Time series Gaussian chain graph models. _Submitted_. [[arXiv]](https://arxiv.org/abs/2604.07018)
 
-- Han, S., Li, Y.<sup>*</sup> and **Wang, Z.** (2025). Reframing regional governance for urban welfare growth: Evidence from the Greater Bay Area of China. _Submitted_. [[SSRN]](http://dx.doi.org/10.2139/ssrn.5405016)
+- Han, S., Li, Y.<sup>*</sup> and **Wang, Z.** (2026). Reframing regional governance for urban welfare growth: Evidence from the Greater Bay Area of China. _Submitted_. [[SSRN]](http://dx.doi.org/10.2139/ssrn.5405016)
 
 - **Wang, Z.**, Qiao, X. and Li, D. (2026+). Matrix functional factor models with partial observations. _Manuscript_.
 
