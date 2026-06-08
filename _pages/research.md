@@ -28,11 +28,11 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 ## Working papers
 
-- Fan, Y.<sup>*</sup>, **Wang, Z.**<sup>1</sup> and Wei, W. (2025). SLOACI: Surrogate-leveraged online adaptive causal inference, major revision for **_Journal of the American Statistical Association_**. [[arXiv]](https://arxiv.org/abs/2512.06872) 
+- Fan, Y.<sup>*</sup>, **Wang, Z.**<sup>1</sup> and Wei, W. (2025). SLOACI: Surrogate-leveraged online adaptive causal inference, under major revision for **_Journal of the American Statistical Association_**. [[arXiv]](https://arxiv.org/abs/2512.06872) 
 
-- **Wang, Z.**, Qiao, X., Li, D.<sup>*</sup> and Tong, H. (2026). On robust inference for null recurrent time series, revision for **_Econometric Theory_**.
+- **Wang, Z.**, Qiao, X., Li, D.<sup>*</sup> and Tong, H. (2025). On a new robust method of inference for general time series models, under major revision for **_Journal of Econometrics_**. [[arXiv]](https://arxiv.org/abs/2503.08655) [[code]](https://github.com/wangzh-stat/TSQMLE)
 
-- **Wang, Z.**, Qiao, X., Li, D.<sup>*</sup> and Tong, H. (2025). On a new robust method of inference for general time series models. _Submitted_. [[arXiv]](https://arxiv.org/abs/2503.08655) [[code]](https://github.com/wangzh-stat/TSQMLE)
+- **Wang, Z.**, Qiao, X., Li, D.<sup>*</sup> and Tong, H. (2026). On robust inference for null recurrent time series, under revision for **_Econometric Theory_**.
 
 - Fang, Q., Qiao, X.<sup>*</sup> and **Wang, Z.**<sup>1</sup> (2026). Time series Gaussian chain graph models. _Submitted_. [[arXiv]](https://arxiv.org/abs/2604.07018)
 
