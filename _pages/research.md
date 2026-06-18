@@ -14,7 +14,7 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 ### Statistical methodology
 
-- Qiao, X., **Wang, Z.**<sup>1,*</sup>, Yao, Q. and Zhang, B. (2026). Weight-calibrated estimation for factor models of high-dimensionsal time series,  **_Journal of the American Statistical Association_**, in press. [[journal]](https://doi.org/10.1080/01621459.2026.2681994) [[arXiv]](https://arxiv.org/abs/2505.01357) [[code]](https://github.com/wangzh-stat/WFactor)
+- Qiao, X., **Wang, Z.**<sup>1,*</sup>, Yao, Q. and Zhang, B. (2026). Weight-calibrated estimation for factor models of high-dimensionsal time series.  **_Journal of the American Statistical Association_**, in press. [[journal]](https://doi.org/10.1080/01621459.2026.2681994) [[arXiv]](https://arxiv.org/abs/2505.01357) [[code]](https://github.com/wangzh-stat/WFactor)
 
 - Guo, S., Qiao, X.<sup>*</sup>, Wang, Q. and **Wang, Z.**<sup>1,*</sup> (2026). Factor modeling for high-dimensional functional time series. **_Journal of Business & Economic Statistics_**, 44(1), 106-119. [[journal]](https://doi.org/10.1080/07350015.2025.2505493) [[arXiv]](https://arxiv.org/abs/2112.13651) [[code]](https://github.com/qswangstat/FMHDFTS)
 
@@ -34,7 +34,7 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 - **Wang, Z.**, Qiao, X., Li, D.<sup>*</sup> and Tong, H. (2026). On robust inference for null recurrent time series, under revision for **_Econometric Theory_**.
 
-- Fang, Q., Qiao, X.<sup>*</sup> and **Wang, Z.**<sup>1</sup> (2026). Time series Gaussian chain graph models. _Submitted_. [[arXiv]](https://arxiv.org/abs/2604.07018)
+- Fang, Q., Qiao, X.<sup>*</sup> and **Wang, Z.**<sup>1</sup> (2026). Time series Gaussian chain graph models, under rejection and resubmission for **_Journal of the American Statistical Association_**. [[arXiv]](https://arxiv.org/abs/2604.07018)
 
 - Han, S., Li, Y.<sup>*</sup> and **Wang, Z.** (2026). Reframing regional governance for urban welfare growth: Evidence from the Greater Bay Area of China. _Submitted_. [[SSRN]](http://dx.doi.org/10.2139/ssrn.5405016)
 
