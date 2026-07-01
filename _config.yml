@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.jpeg"
   name             : "Zihan Wang / 王梓涵"
-  pronouns         : "he/him"  
-  bio              : "Ph.D. candidate in Statistics"
+  pronouns         : "he/him"
+  bio              : "Ph.D. in Statistics"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              : # URL
-  email            : "wangzh21@mails.tsinghua.edu.cn" 
+  email            : "wzhthu99@gmail.com" 
 
   # Academic websites
   academia         : # URL
