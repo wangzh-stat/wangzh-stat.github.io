@@ -31,6 +31,4 @@ I obtained my Bachelor's degree in Mathematics from the Department of Mathematic
 
 ## Contact
 
-Email: wzhthu99@gmail.com
-
-
+Email: wangzh21@tsinghua.org.cn
